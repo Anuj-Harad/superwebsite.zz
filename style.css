@@ -1,0 +1,77 @@
+.top{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    color: #000000;
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+    padding: 10px;
+    margin-bottom: 2.5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 7.5%;
+}
+.main{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    color: #000000;
+    border-radius: 10px;
+    text-align:center;
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 7.5%;
+
+}
+.god{
+    background: url(https://steamusercontent-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/);
+    background-attachment: fixed;
+    background-size: auto;
+}
+::selection {
+    color: magenta;
+    background: blue;
+  }
+.para{
+    text-align: center;
+}
+.lnk{
+    border: #000000;
+    border-style: solid;
+    border-radius: 5px;
+    color: #000000;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+.lnk:hover{
+    color: #FF6961;
+    border-color: #FF6961;
+}
+.btop{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    text-align:center;
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 7.5%;
+    margin-top: 7.5%;
+}
+#link{
+    height: 50px;
+}
