@@ -38,8 +38,8 @@
     background-size: auto;
 }
 ::selection {
-    color: magenta;
-    background: blue;
+    color: blue;
+    background: magenta;
   }
 .para{
     text-align: center;
